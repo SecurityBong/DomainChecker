@@ -1,6 +1,7 @@
 # DomainChecker
 To check multiple or single URL is actually working or not we can use this script.
 Even the URL redirect to some other URL it will show you where it goes.
+chmod +x the script
 Just run the script and it will ask if any dependency need to install. Just press y and voila...!!!!!!!!
 
 
