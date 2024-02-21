@@ -4,6 +4,7 @@ Even the URL redirect to some other URL it will show you where it goes.
 chmod +x the script
 Just run the script and it will ask if any dependency need to install. Just press y and voila...!!!!!!!!
 
+I have tried to manage the false negatives into minimum level.
 
 ![image](https://github.com/SecurityBong/DomainChecker/assets/52169190/afe470a7-32ba-4a29-a262-2982fef59828)
 
